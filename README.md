@@ -1,23 +1,20 @@
 ## Hi 👋
-🔭 I am a Fullstack Software Engineer specializing in (Backend) with strong ownership mindset,Proficient in
-backend technologies, with exceptional communication, critical thinking, problem solving and collaboration
-skills, and a relentless passion for continuous learning and innovation.
-Adept at leveraging technical expertise to solve complex challenges and
-drive impactful results.
+🔭 I am a Fullstack Software Engineer with a strong focus on Backend development. I bring a proactive ownership mindset to my work, with proficiency in backend technologies, exceptional communication skills, and a natural ability to think critically, solve problems, and collaborate effectively. My relentless passion for continuous learning and innovation drives me to leverage my technical expertise to tackle complex challenges and deliver impactful results.
 
-I’m currently working on MumCare with my Team Mates: A comprehensive platform for improving maternal and child
-health by empowering pregnant women and healthcare providers. Features
-include antenatal visit tracking, immunization schedules, and real-time health
-information.
-- 🌱 I’m currently learning Foundational Skills with ALX, Deeply learning about the 8 meta skills, which are;
-## Leading Self
-## Leading Others
-## Critical Thinking
-## Communicating for Impact
-## Entrepreneurial Thinking
-## Managing Complex Tasks
-## Tech Ecosystem
-## Quantitative Reasoning
-- 👯 I’m looking to collaborate on solving real world problems through technology
-- 🤔 I’m looking for help with Internship opportunity and Volunteer role
+Currently, I am working on MumCare alongside my talented team. MumCare is a comprehensive platform dedicated to improving maternal and child health by empowering pregnant women and healthcare providers. Key features of the platform include tracking antenatal visits, managing immunization schedules, and providing real-time health information.
+
+🌱 I’m currently deepening my knowledge through ALX’s Professional Foundational Skills program, where I am focusing on the development of 8 essential meta-skills:
+. Leading Self
+. Leading Others
+. Critical Thinking
+. Communicating for Impact
+. Entrepreneurial Thinking
+. Managing Complex Tasks
+. Tech Ecosystem
+. Quantitative Reasoning
+👯 I’m eager to collaborate with others to solve real-world problems through the power of technology.
+
+🤔 I’m seeking internship opportunities and volunteer roles where I can contribute my skills and continue to grow.
+
+
 - 📫 How to reach me: enejepromise@gmail.com
