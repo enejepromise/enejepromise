@@ -1,11 +1,5 @@
-## Hi there 👋
-
-<!--
-**enejepromise/enejepromise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I am a Fullstack Software Engineer specializing in (Backend) with strong ownership mindset,Proficient in
+## Hi 👋
+🔭 I am a Fullstack Software Engineer specializing in (Backend) with strong ownership mindset,Proficient in
 backend technologies, with exceptional communication, critical thinking, problem solving and collaboration
 skills, and a relentless passion for continuous learning and innovation.
 Adept at leveraging technical expertise to solve complex challenges and
@@ -27,4 +21,3 @@ information.
 - 👯 I’m looking to collaborate on solving real world problems through technology
 - 🤔 I’m looking for help with Internship opportunity and Volunteer role
 - 📫 How to reach me: enejepromise@gmail.com
--->
